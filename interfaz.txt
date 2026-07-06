@@ -1,0 +1,5 @@
+La plataforma tendría una interfaz sencilla y fácil de usar. En la parte principal habría un formulario
+para crear una nueva causa comunitaria con campos como título, descripción y fecha. También mostraría 
+una lista de las causas disponibles para que cualquier usuario pueda consultarlas. Cada causa tendría
+un botón para apoyar la iniciativa y un contador que indique el número de apoyos recibidos. La información
+personal de los usuarios no sería visible para proteger su privacidad y garantizar la seguridad de la comunidad.
